@@ -1,5 +1,9 @@
-### Hi there 👋
+### Buenas 👋
 
+🧑 Mi nombre es Marcos y tengo 20 años.
+📚 Soy estudiante de Informática en la Tecnicatura "Redes y Software" en ITS.
+👷‍♀️ Actualmente estoy trabajando en el area laboral de informática, especificamente en Ricoh.
+⚽ Una de mis pasiones es el fútbol y soy hincha del Club Nacional de Football.
 <!--
 **dc1899/dc1899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
