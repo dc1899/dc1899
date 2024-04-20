@@ -1,6 +1,6 @@
 ### Buenas 👋
 
-🧑 Mi nombre es Marcos y tengo 20 años.
+🧑 Mi nombre es Marcos y tengo 21 años.
 📚 Soy estudiante de Informática en la Tecnicatura "Redes y Software" en ITS.
 👷‍♀️ Actualmente estoy trabajando en el area laboral de informática, especificamente en Ricoh.
 ⚽ Una de mis pasiones es el fútbol y soy hincha del Club Nacional de Football.
